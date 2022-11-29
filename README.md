@@ -1,5 +1,5 @@
 # TesteUnitarioJava
-Teste unitario utilizando o Junit5 com o projeto grandle
+Teste unitario utilizando o Junit5 com o projeto gradle
 
 Neste projeto foi criada uma calculadora simples, para entendimento dos testes unitarios.
 
